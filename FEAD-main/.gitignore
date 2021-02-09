@@ -1,0 +1,8 @@
+.idea/*
+__pycache__/*
+test/*
+*__pycache__/
+*/mawilab_10w.npy
+*res*.md
+*msnm_*.md
+*ids*.npy
